@@ -1,8 +1,7 @@
-# Hackathon Template Github
+# Test_Git_Repsitory
+**2025-01-24**  **-** **2024-01-25** 
 
-**2024-11-19**  **-** **2024-11-20** 
-
-Github Pages based template for hackathons
+A test repo for the data science workshop
 
 
 ## Instructors and Mentors
